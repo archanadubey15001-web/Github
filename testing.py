@@ -1,3 +1,1 @@
-print{'Hello guysss'}
-
-print{"Bye guysss")
+print("Hello guysss")
